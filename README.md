@@ -44,7 +44,7 @@ We will take input and determine the maximum distance that have between two citi
 And we will start from any one city between these two cities and will traverse towards the lower cost distances.
 
 ## Implementation:
-Solution provided in ``app.py``` file.
+Solution provided in ```app.py``` file.
 
 ## Run the code:
 Simply run the code using the following command 
